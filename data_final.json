@@ -3,11 +3,11 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.005555555555555556
+            "time_on_this_state": 0.00023320601851851852
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 17.274722222222223
+            "time_on_this_state": 3.742222362627315
         }
     ]
 }},
@@ -16,11 +16,11 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.10027777777777777
+            "time_on_this_state": 0.004189444444444444
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 23.317222222222224
+            "time_on_this_state": 4.993995300127315
         }
     ]
 }},
@@ -29,11 +29,11 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.2136111111111111
+            "time_on_this_state": 0.008907557870370371
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 23.49138888888889
+            "time_on_this_state": 5.001256363229167
         }
     ]
 }},
@@ -42,19 +42,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.12555555555555556
+            "time_on_this_state": 0.0052401157407407405
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.013055555555555556
+            "time_on_this_state": 0.0005509606481481482
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.1063888888888889
+            "time_on_this_state": 0.004443773148148148
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 21.233055555555556
+            "time_on_this_state": 6.907162884641204
         }
     ]
 }},
@@ -63,11 +63,11 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.008888888888888889
+            "time_on_this_state": 0.0003727314814814815
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 22.74
+            "time_on_this_state": 6.969941676863426
         }
     ]
 }},
@@ -76,11 +76,11 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.030833333333333334
+            "time_on_this_state": 0.001290636574074074
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 22.740833333333335
+            "time_on_this_state": 6.969984427048612
         }
     ]
 }},
@@ -89,15 +89,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.07055555555555555
+            "time_on_this_state": 0.002947141203703704
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 2.6175
+            "time_on_this_state": 3.109063622685185
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 20.124166666666667
+            "time_on_this_state": 3.8609541257175928
         }
     ]
 }},
@@ -106,15 +106,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.12527777777777777
+            "time_on_this_state": 0.005227256944444444
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 2.6166666666666667
+            "time_on_this_state": 3.109030567129629
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 20.125833333333333
+            "time_on_this_state": 3.861021901342593
         }
     ]
 }},
@@ -123,35 +123,35 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.12333333333333334
+            "time_on_this_state": 0.005138981481481481
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 17.909444444444443
+            "time_on_this_state": 0.7462335069444445
         }, 
         {
             "state_name": "Deleted", 
-            "time_on_this_state": 0.01138888888888889
+            "time_on_this_state": 0.00048379629629629624
         }, 
         {
             "state_name": "Deleted", 
-            "time_on_this_state": 0.0011111111111111111
+            "time_on_this_state": 5.4583333333333336e-05
         }, 
         {
             "state_name": "New", 
-            "time_on_this_state": 0.014166666666666666
+            "time_on_this_state": 0.0006011689814814815
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.12416666666666666
+            "time_on_this_state": 0.005179039351851852
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.22416666666666665
+            "time_on_this_state": 0.009343738425925925
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 22.464166666666667
+            "time_on_this_state": 6.958453302488426
         }
     ]
 }},
@@ -184,11 +184,11 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.008055555555555555
+            "time_on_this_state": 0.0003402199074074074
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 17.465
+            "time_on_this_state": 12.750159483518518
         }
     ]
 }},
@@ -197,11 +197,11 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.05694444444444444
+            "time_on_this_state": 0.002380486111111111
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 19.612222222222222
+            "time_on_this_state": 14.839623855405094
         }
     ]
 }},
@@ -210,19 +210,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.007222222222222222
+            "time_on_this_state": 0.000307349537037037
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 18.45611111111111
+            "time_on_this_state": 0.7690151273148149
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 23.204444444444444
+            "time_on_this_state": 11.966861608796297
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 23.092222222222222
+            "time_on_this_state": 6.984628142291666
         }
     ]
 }},
@@ -231,15 +231,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.005277777777777778
+            "time_on_this_state": 0.00022611111111111112
         }, 
         {
             "state_name": "Test", 
-            "time_on_this_state": 0.11611111111111111
+            "time_on_this_state": 12.004839490740741
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 17.6825
+            "time_on_this_state": 12.759218859837963
         }
     ]
 }},
@@ -248,23 +248,23 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.0325
+            "time_on_this_state": 0.0013560416666666666
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 21.40972222222222
+            "time_on_this_state": 5.892077615740741
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 0.008611111111111111
+            "time_on_this_state": 0.0003670949074074074
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 2.4358333333333335
+            "time_on_this_state": 1.101499988425926
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 23.31388888888889
+            "time_on_this_state": 17.993856425960647
         }
     ]
 }},
@@ -273,19 +273,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.16194444444444445
+            "time_on_this_state": 0.006749340277777778
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 23.973055555555554
+            "time_on_this_state": 3.998880115740741
         }, 
         {
             "state_name": "Test", 
-            "time_on_this_state": 5.470277777777778
+            "time_on_this_state": 8.227934050925926
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 17.68166666666667
+            "time_on_this_state": 12.759181638784721
         }
     ]
 }},
@@ -294,15 +294,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.0044444444444444444
+            "time_on_this_state": 0.0001943402777777778
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 23.069166666666668
+            "time_on_this_state": 18.961219791666664
         }, 
         {
             "state_name": "New", 
-            "time_on_this_state": 16.00611111111111
+            "time_on_this_state": 6.6893634329629625
         }
     ]
 }},
@@ -311,15 +311,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.034722222222222224
+            "time_on_this_state": 0.0014511574074074073
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 23.06833333333333
+            "time_on_this_state": 18.961182453703707
         }, 
         {
             "state_name": "New", 
-            "time_on_this_state": 16.008055555555554
+            "time_on_this_state": 6.6894518339583335
         }
     ]
 }},
@@ -328,15 +328,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.006944444444444444
+            "time_on_this_state": 0.00029878472222222226
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 20.66583333333333
+            "time_on_this_state": 3.8610864699074074
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 18.845833333333335
+            "time_on_this_state": 21.80769095076389
         }
     ]
 }},
@@ -345,15 +345,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.145
+            "time_on_this_state": 0.00605136574074074
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 20.653055555555557
+            "time_on_this_state": 3.860551689814815
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 18.857222222222223
+            "time_on_this_state": 21.80816761210648
         }
     ]
 }},
@@ -362,15 +362,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.0225
+            "time_on_this_state": 0.0009402430555555555
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 21.27138888888889
+            "time_on_this_state": 3.8863183796296297
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 18.765833333333333
+            "time_on_this_state": 21.804352333402775
         }
     ]
 }},
@@ -379,15 +379,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.03888888888888889
+            "time_on_this_state": 0.001624525462962963
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 21.275555555555556
+            "time_on_this_state": 3.8864861342592594
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 18.764722222222222
+            "time_on_this_state": 21.804310512766204
         }
     ]
 }},
@@ -396,15 +396,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.007222222222222222
+            "time_on_this_state": 0.00030521990740740737
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 21.44361111111111
+            "time_on_this_state": 3.8934850347222225
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 18.76361111111111
+            "time_on_this_state": 21.80426750576389
         }
     ]
 }},
@@ -413,15 +413,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.003611111111111111
+            "time_on_this_state": 0.00015148148148148147
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 21.501944444444444
+            "time_on_this_state": 3.895919826388889
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 18.7625
+            "time_on_this_state": 21.80422026234954
         }
     ]
 }},
@@ -430,15 +430,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.105
+            "time_on_this_state": 0.0043778125
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 21.56972222222222
+            "time_on_this_state": 3.898747893518519
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 18.761111111111113
+            "time_on_this_state": 21.804156618298613
         }
     ]
 }},
@@ -447,27 +447,27 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.02722222222222222
+            "time_on_this_state": 0.0011395023148148148
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.001388888888888889
+            "time_on_this_state": 6.130787037037037e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 17.45916666666667
+            "time_on_this_state": 18.727473796296298
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 0.11166666666666666
+            "time_on_this_state": 0.004662951388888889
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 5.344166666666666
+            "time_on_this_state": 3.2226788310185186
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 17.679444444444446
+            "time_on_this_state": 3.7590900340509257
         }
     ]
 }},
@@ -476,19 +476,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.006111111111111111
+            "time_on_this_state": 0.00026489583333333335
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0011111111111111111
+            "time_on_this_state": 4.777777777777778e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 23.075
+            "time_on_this_state": 21.961459907407406
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 17.669444444444444
+            "time_on_this_state": 3.7586695062152775
         }
     ]
 }},
@@ -497,19 +497,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.03166666666666667
+            "time_on_this_state": 0.0013259953703703704
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0008333333333333334
+            "time_on_this_state": 3.780092592592593e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.0008333333333333334
+            "time_on_this_state": 4.440972222222223e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 17.039444444444445
+            "time_on_this_state": 25.73242510045139
         }
     ]
 }},
@@ -518,11 +518,11 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.1625
+            "time_on_this_state": 0.006772314814814815
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 17.03638888888889
+            "time_on_this_state": 25.732292480636577
         }
     ]
 }},
@@ -531,19 +531,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.08
+            "time_on_this_state": 0.003343194444444444
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0005555555555555556
+            "time_on_this_state": 3.460648148148148e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.0011111111111111111
+            "time_on_this_state": 5.4907407407407406e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 17.21472222222222
+            "time_on_this_state": 25.739729322951387
         }
     ]
 }},
@@ -552,19 +552,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.18611111111111112
+            "time_on_this_state": 0.007765185185185186
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0011111111111111111
+            "time_on_this_state": 5.08449074074074e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.001388888888888889
+            "time_on_this_state": 6.622685185185186e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 17.678055555555556
+            "time_on_this_state": 25.759029789502314
         }
     ]
 }},
@@ -573,19 +573,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.12333333333333334
+            "time_on_this_state": 0.005142534722222222
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0011111111111111111
+            "time_on_this_state": 4.921296296296296e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.01
+            "time_on_this_state": 0.0004270486111111111
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 18.361666666666668
+            "time_on_this_state": 25.787520115300925
         }
     ]
 }},
@@ -594,19 +594,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.026111111111111113
+            "time_on_this_state": 0.0010930208333333332
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.002777777777777778
+            "time_on_this_state": 0.00011969907407407408
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.009722222222222222
+            "time_on_this_state": 0.0004131944444444445
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 18.904166666666665
+            "time_on_this_state": 25.8101241225
         }
     ]
 }},
@@ -615,23 +615,23 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.059722222222222225
+            "time_on_this_state": 0.0024902546296296296
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0025
+            "time_on_this_state": 0.0001137962962962963
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.003611111111111111
+            "time_on_this_state": 0.00015143518518518517
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.001388888888888889
+            "time_on_this_state": 6.650462962962963e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 19.19972222222222
+            "time_on_this_state": 25.822435007719903
         }
     ]
 }},
@@ -640,19 +640,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.6883333333333334
+            "time_on_this_state": 0.028689247685185187
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.001388888888888889
+            "time_on_this_state": 6.849537037037037e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.0025
+            "time_on_this_state": 0.00010565972222222221
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 20.08861111111111
+            "time_on_this_state": 25.859472311446762
         }
     ]
 }},
@@ -661,19 +661,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.017222222222222222
+            "time_on_this_state": 0.0007195833333333333
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0008333333333333334
+            "time_on_this_state": 4.1377314814814815e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.0008333333333333334
+            "time_on_this_state": 4.423611111111111e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 18.931944444444444
+            "time_on_this_state": 27.811280529386572
         }
     ]
 }},
@@ -682,19 +682,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.012222222222222223
+            "time_on_this_state": 0.0005131134259259259
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 22.50722222222222
+            "time_on_this_state": 2.9378089467592594
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 1.1258333333333332
+            "time_on_this_state": 13.046910023148149
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 19.84888888888889
+            "time_on_this_state": 11.849480970138888
         }
     ]
 }},
@@ -703,15 +703,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.0125
+            "time_on_this_state": 0.0005236574074074074
         }, 
         {
             "state_name": "Test", 
-            "time_on_this_state": 1.8836111111111111
+            "time_on_this_state": 15.078485046296297
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 17.683055555555555
+            "time_on_this_state": 12.759246025717593
         }
     ]
 }},
@@ -720,19 +720,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.030555555555555555
+            "time_on_this_state": 0.0012739583333333333
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0005555555555555556
+            "time_on_this_state": 2.6736111111111112e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.0005555555555555556
+            "time_on_this_state": 3.005787037037037e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 19.554444444444446
+            "time_on_this_state": 27.837213341747685
         }
     ]
 }},
@@ -741,19 +741,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.015277777777777777
+            "time_on_this_state": 0.0006392476851851852
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0005555555555555556
+            "time_on_this_state": 2.778935185185185e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.0005555555555555556
+            "time_on_this_state": 3.152777777777778e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 19.646944444444443
+            "time_on_this_state": 27.841074709652776
         }
     ]
 }},
@@ -762,19 +762,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.02277777777777778
+            "time_on_this_state": 0.0009494328703703704
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0005555555555555556
+            "time_on_this_state": 2.7939814814814817e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.0008333333333333334
+            "time_on_this_state": 3.854166666666667e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 19.710277777777776
+            "time_on_this_state": 27.843708762569445
         }
     ]
 }},
@@ -783,19 +783,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.015833333333333335
+            "time_on_this_state": 0.000669837962962963
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0005555555555555556
+            "time_on_this_state": 2.855324074074074e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.0005555555555555556
+            "time_on_this_state": 3.074074074074074e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 19.837222222222223
+            "time_on_this_state": 27.848995557997686
         }
     ]
 }},
@@ -804,19 +804,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.024166666666666666
+            "time_on_this_state": 0.0010093402777777776
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0005555555555555556
+            "time_on_this_state": 2.8819444444444446e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.0008333333333333334
+            "time_on_this_state": 3.9398148148148146e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 20.21638888888889
+            "time_on_this_state": 27.86479297777778
         }
     ]
 }},
@@ -825,19 +825,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.029166666666666667
+            "time_on_this_state": 0.0012242013888888888
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0008333333333333334
+            "time_on_this_state": 4.159722222222222e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.0011111111111111111
+            "time_on_this_state": 4.8240740740740744e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 20.40111111111111
+            "time_on_this_state": 27.872496324756945
         }
     ]
 }},
@@ -846,19 +846,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.029444444444444443
+            "time_on_this_state": 0.001231238425925926
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0005555555555555556
+            "time_on_this_state": 3.265046296296296e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.001388888888888889
+            "time_on_this_state": 6.434027777777777e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 20.57
+            "time_on_this_state": 27.879530758796296
         }
     ]
 }},
@@ -867,19 +867,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.023333333333333334
+            "time_on_this_state": 0.0009725694444444444
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0008333333333333334
+            "time_on_this_state": 3.8935185185185185e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.0008333333333333334
+            "time_on_this_state": 3.818287037037037e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 22.164444444444445
+            "time_on_this_state": 27.94596672009259
         }
     ]
 }},
@@ -888,19 +888,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.017777777777777778
+            "time_on_this_state": 0.0007445023148148148
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.043611111111111114
+            "time_on_this_state": 0.0018199305555555555
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.0008333333333333334
+            "time_on_this_state": 3.7152777777777777e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 22.328333333333333
+            "time_on_this_state": 27.952794464143516
         }
     ]
 }},
@@ -909,19 +909,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.034444444444444444
+            "time_on_this_state": 0.001439548611111111
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.0008333333333333334
+            "time_on_this_state": 3.746527777777778e-05
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.0008333333333333334
+            "time_on_this_state": 4.028935185185185e-05
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 22.48611111111111
+            "time_on_this_state": 27.959364870648148
         }
     ]
 }},
@@ -930,19 +930,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.1502777777777778
+            "time_on_this_state": 0.006264699074074074
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.14916666666666667
+            "time_on_this_state": 0.006225011574074074
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.013333333333333334
+            "time_on_this_state": 0.000557511574074074
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 22.73027777777778
+            "time_on_this_state": 27.969536353530092
         }
     ]
 }},
@@ -951,11 +951,11 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 1.5686111111111112
+            "time_on_this_state": 0.06536368055555555
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 20.755
+            "time_on_this_state": 28.887243049988427
         }
     ]
 }},
@@ -964,11 +964,11 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.055
+            "time_on_this_state": 0.002299722222222222
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 23.51388888888889
+            "time_on_this_state": 29.00219358820602
         }
     ]
 }},
@@ -977,15 +977,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.03111111111111111
+            "time_on_this_state": 0.0013058796296296297
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 22.630277777777778
+            "time_on_this_state": 2.942937372685185
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 18.25888888888889
+            "time_on_this_state": 28.783236178472226
         }
     ]
 }},
@@ -994,11 +994,11 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 18.223055555555554
+            "time_on_this_state": 17.75929917824074
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 23.08972222222222
+            "time_on_this_state": 13.98452285125
         }
     ]
 }},
@@ -1007,15 +1007,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.71
+            "time_on_this_state": 19.029592650462963
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.4880555555555556
+            "time_on_this_state": 1.020341550925926
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 16.97222222222222
+            "time_on_this_state": 11.729628577627315
         }
     ]
 }},
@@ -1024,15 +1024,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.8436111111111111
+            "time_on_this_state": 19.03515332175926
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 23.900555555555556
+            "time_on_this_state": 7.995859722222223
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 17.560555555555556
+            "time_on_this_state": 4.754140021678241
         }
     ]
 }},
@@ -1049,15 +1049,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.015
+            "time_on_this_state": 0.0006289699074074074
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 1.493611111111111
+            "time_on_this_state": 18.062236886574073
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 17.12
+            "time_on_this_state": 13.735782588912038
         }
     ]
 }},
@@ -1066,15 +1066,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.02277777777777778
+            "time_on_this_state": 0.0009596064814814814
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 17.026944444444446
+            "time_on_this_state": 12.70946724537037
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 1.7477777777777779
+            "time_on_this_state": 19.095270213541667
         }
     ]
 }},
@@ -1083,15 +1083,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.09333333333333334
+            "time_on_this_state": 0.003892638888888889
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 1.6691666666666667
+            "time_on_this_state": 18.06955917824074
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 17.121666666666666
+            "time_on_this_state": 13.735844794155092
         }
     ]
 }},
@@ -1100,15 +1100,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.16277777777777777
+            "time_on_this_state": 0.006786215277777777
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 17.02111111111111
+            "time_on_this_state": 12.709224409722223
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 1.7552777777777777
+            "time_on_this_state": 19.09558923650463
         }
     ]
 }},
@@ -1117,15 +1117,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.25972222222222224
+            "time_on_this_state": 0.010825960648148149
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 17.018333333333334
+            "time_on_this_state": 12.709105162037037
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 1.76
+            "time_on_this_state": 19.09577754452546
         }
     ]
 }},
@@ -1134,19 +1134,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.05638888888888889
+            "time_on_this_state": 0.0023571180555555554
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.16944444444444445
+            "time_on_this_state": 0.0070673842592592585
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 2.0458333333333334
+            "time_on_this_state": 12.08524880787037
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 16.980555555555554
+            "time_on_this_state": 19.729970554965277
         }
     ]
 }},
@@ -1155,19 +1155,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.17944444444444443
+            "time_on_this_state": 0.007480300925925926
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.17222222222222222
+            "time_on_this_state": 0.007177418981481482
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 2.0388888888888888
+            "time_on_this_state": 12.084959942129629
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 16.98638888888889
+            "time_on_this_state": 19.730211401770834
         }
     ]
 }},
@@ -1176,19 +1176,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.3138888888888889
+            "time_on_this_state": 0.013086886574074075
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.17555555555555555
+            "time_on_this_state": 0.007315104166666667
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 2.0316666666666667
+            "time_on_this_state": 12.084655694444445
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 16.9925
+            "time_on_this_state": 19.730465836747687
         }
     ]
 }},
@@ -1197,11 +1197,11 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.06333333333333334
+            "time_on_this_state": 0.00263931712962963
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 19.59638888888889
+            "time_on_this_state": 31.838960599849536
         }
     ]
 }},
@@ -1210,19 +1210,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.5225
+            "time_on_this_state": 0.021780104166666665
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.17777777777777778
+            "time_on_this_state": 0.007409409722222223
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 2.002222222222222
+            "time_on_this_state": 12.083426689814814
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 17.020833333333332
+            "time_on_this_state": 19.731645762685186
         }
     ]
 }},
@@ -1231,19 +1231,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 3.6794444444444445
+            "time_on_this_state": 0.15332134259259259
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.17444444444444446
+            "time_on_this_state": 0.007276284722222223
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 2.001388888888889
+            "time_on_this_state": 12.083394664351852
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 17.02611111111111
+            "time_on_this_state": 19.7318669090625
         }
     ]
 }},
@@ -1252,15 +1252,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.07916666666666666
+            "time_on_this_state": 0.0033046759259259257
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 4.895555555555555
+            "time_on_this_state": 13.203991215277778
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 18.76888888888889
+            "time_on_this_state": 20.804489245810185
         }
     ]
 }},
@@ -1269,19 +1269,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 5.419722222222222
+            "time_on_this_state": 0.2258238888888889
         }, 
         {
             "state_name": "Ready", 
-            "time_on_this_state": 0.7469444444444444
+            "time_on_this_state": 0.031133020833333334
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 15.246666666666666
+            "time_on_this_state": 2.6352786342592593
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 19.157777777777778
+            "time_on_this_state": 31.82068386471065
         }
     ]
 }},
@@ -1290,23 +1290,23 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 8.022777777777778
+            "time_on_this_state": 0.3342878356481482
         }, 
         {
             "state_name": "Ready", 
-            "time_on_this_state": 0.7469444444444444
+            "time_on_this_state": 0.031131944444444448
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 10.488333333333333
+            "time_on_this_state": 0.4370203819444445
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 4.91
+            "time_on_this_state": 16.20459261574074
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 19.00638888888889
+            "time_on_this_state": 17.814382016655095
         }
     ]
 }},
@@ -1315,19 +1315,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.43277777777777776
+            "time_on_this_state": 0.018033310185185183
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 20.214444444444446
+            "time_on_this_state": 0.8422721527777778
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 3.566666666666667
+            "time_on_this_state": 16.14861773148148
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 19.03527777777778
+            "time_on_this_state": 17.81558189105324
         }
     ]
 }},
@@ -1336,19 +1336,19 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.5036111111111111
+            "time_on_this_state": 0.020990381944444445
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 0.029444444444444443
+            "time_on_this_state": 0.0012331597222222223
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 23.723055555555554
+            "time_on_this_state": 16.988471620370373
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 19.06277777777778
+            "time_on_this_state": 17.816726603078703
         }
     ]
 }},
@@ -1357,15 +1357,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.6236111111111111
+            "time_on_this_state": 0.02599145833333333
         }, 
         {
             "state_name": "Test", 
-            "time_on_this_state": 18.51
+            "time_on_this_state": 8.771260208333333
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 0.33694444444444444
+            "time_on_this_state": 26.03648955244213
         }
     ]
 }},
@@ -1374,15 +1374,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.6983333333333334
+            "time_on_this_state": 0.029107546296296295
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 0.10305555555555555
+            "time_on_this_state": 0.00429712962962963
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 18.7675
+            "time_on_this_state": 34.80442220071759
         }
     ]
 }},
@@ -1391,15 +1391,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 1.0805555555555555
+            "time_on_this_state": 0.04502423611111111
         }, 
         {
             "state_name": "Test", 
-            "time_on_this_state": 18.296666666666667
+            "time_on_this_state": 8.76236738425926
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 0.35138888888888886
+            "time_on_this_state": 26.037090358229168
         }
     ]
 }},
@@ -1408,15 +1408,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 1.0638888888888889
+            "time_on_this_state": 0.04433792824074074
         }, 
         {
             "state_name": "Test", 
-            "time_on_this_state": 18.397222222222222
+            "time_on_this_state": 8.766558888888888
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 0.3447222222222222
+            "time_on_this_state": 26.036814338159722
         }
     ]
 }},
@@ -1425,15 +1425,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.8475
+            "time_on_this_state": 0.03531491898148148
         }, 
         {
             "state_name": "Test", 
-            "time_on_this_state": 18.678055555555556
+            "time_on_this_state": 8.778254976851851
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 0.3586111111111111
+            "time_on_this_state": 26.037393583125
         }
     ]
 }},
@@ -1442,15 +1442,15 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.8316666666666667
+            "time_on_this_state": 0.03465489583333333
         }, 
         {
             "state_name": "Test", 
-            "time_on_this_state": 18.73638888888889
+            "time_on_this_state": 8.78069013888889
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 0.36583333333333334
+            "time_on_this_state": 26.03769021278935
         }
     ]
 }},
@@ -1459,27 +1459,27 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.8922222222222222
+            "time_on_this_state": 0.037186053240740743
         }, 
         {
             "state_name": "Ready To Verify", 
-            "time_on_this_state": 0.0005555555555555556
+            "time_on_this_state": 2.5509259259259263e-05
         }, 
         {
             "state_name": "Test", 
-            "time_on_this_state": 18.759722222222223
+            "time_on_this_state": 8.781660208333333
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 1.8544444444444443
+            "time_on_this_state": 22.077279131944444
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 5.608333333333333
+            "time_on_this_state": 0.23368983796296297
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 16.910833333333333
+            "time_on_this_state": 3.727060265706019
         }
     ]
 }},
@@ -1488,23 +1488,23 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.9975
+            "time_on_this_state": 0.04156309027777778
         }, 
         {
             "state_name": "Test", 
-            "time_on_this_state": 1.1575
+            "time_on_this_state": 1.0482346412037036
         }, 
         {
             "state_name": "Deployed", 
-            "time_on_this_state": 0.0019444444444444444
+            "time_on_this_state": 8.247685185185186e-05
         }, 
         {
             "state_name": "Test", 
-            "time_on_this_state": 17.614722222222223
+            "time_on_this_state": 7.7339529282407415
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 0.38472222222222224
+            "time_on_this_state": 26.0384729783912
         }
     ]
 }}]
