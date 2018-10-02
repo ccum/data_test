@@ -7,7 +7,7 @@
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 1.6669444444444443
+            "time_on_this_state": 17.100277777777777
         }
     ]
 }},
@@ -20,7 +20,7 @@
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 7.709722222222222
+            "time_on_this_state": 23.142777777777777
         }
     ]
 }},
@@ -33,7 +33,7 @@
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 7.8838888888888885
+            "time_on_this_state": 23.317222222222224
         }
     ]
 }},
@@ -54,7 +54,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 5.625555555555556
+            "time_on_this_state": 21.058888888888887
         }
     ]
 }},
@@ -67,7 +67,7 @@
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 7.1322222222222225
+            "time_on_this_state": 22.565555555555555
         }
     ]
 }},
@@ -80,7 +80,7 @@
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 7.133333333333334
+            "time_on_this_state": 22.566666666666666
         }
     ]
 }},
@@ -97,7 +97,7 @@
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 4.516666666666667
+            "time_on_this_state": 19.95
         }
     ]
 }},
@@ -114,7 +114,7 @@
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 4.5183333333333335
+            "time_on_this_state": 19.95138888888889
         }
     ]
 }},
@@ -151,7 +151,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 6.8566666666666665
+            "time_on_this_state": 22.289722222222224
         }
     ]
 }},
@@ -188,7 +188,7 @@
         }, 
         {
             "state_name": "Analysing", 
-            "time_on_this_state": 1.8575
+            "time_on_this_state": 17.29083333333333
         }
     ]
 }},
@@ -201,7 +201,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 4.004722222222222
+            "time_on_this_state": 19.438055555555554
         }
     ]
 }},
@@ -222,7 +222,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 7.4847222222222225
+            "time_on_this_state": 22.918055555555554
         }
     ]
 }},
@@ -239,7 +239,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 2.075
+            "time_on_this_state": 17.508333333333333
         }
     ]
 }},
@@ -264,7 +264,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 7.706388888888889
+            "time_on_this_state": 23.139444444444443
         }
     ]
 }},
@@ -285,7 +285,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 2.0741666666666667
+            "time_on_this_state": 17.50722222222222
         }
     ]
 }},
@@ -302,7 +302,7 @@
         }, 
         {
             "state_name": "New", 
-            "time_on_this_state": 0.3983333333333333
+            "time_on_this_state": 15.831666666666667
         }
     ]
 }},
@@ -319,7 +319,7 @@
         }, 
         {
             "state_name": "New", 
-            "time_on_this_state": 0.40055555555555555
+            "time_on_this_state": 15.83388888888889
         }
     ]
 }},
@@ -336,7 +336,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 3.2383333333333333
+            "time_on_this_state": 18.671666666666667
         }
     ]
 }},
@@ -353,7 +353,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 3.249722222222222
+            "time_on_this_state": 18.683055555555555
         }
     ]
 }},
@@ -370,7 +370,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 3.1580555555555554
+            "time_on_this_state": 18.59138888888889
         }
     ]
 }},
@@ -387,7 +387,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 3.1572222222222224
+            "time_on_this_state": 18.590555555555557
         }
     ]
 }},
@@ -404,7 +404,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 3.156111111111111
+            "time_on_this_state": 18.589444444444446
         }
     ]
 }},
@@ -421,7 +421,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 3.155
+            "time_on_this_state": 18.588333333333335
         }
     ]
 }},
@@ -438,7 +438,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 3.153611111111111
+            "time_on_this_state": 18.586666666666666
         }
     ]
 }},
@@ -467,7 +467,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 2.0719444444444446
+            "time_on_this_state": 17.505
         }
     ]
 }},
@@ -488,7 +488,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 2.0616666666666665
+            "time_on_this_state": 17.495
         }
     ]
 }},
@@ -509,7 +509,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 1.4319444444444445
+            "time_on_this_state": 16.865277777777777
         }
     ]
 }},
@@ -522,7 +522,7 @@
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 1.428611111111111
+            "time_on_this_state": 16.861944444444443
         }
     ]
 }},
@@ -543,7 +543,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 1.6072222222222223
+            "time_on_this_state": 17.040555555555557
         }
     ]
 }},
@@ -564,7 +564,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 2.0705555555555555
+            "time_on_this_state": 17.503611111111113
         }
     ]
 }},
@@ -585,7 +585,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 2.754166666666667
+            "time_on_this_state": 18.1875
         }
     ]
 }},
@@ -606,7 +606,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 3.296666666666667
+            "time_on_this_state": 18.73
         }
     ]
 }},
@@ -631,7 +631,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 3.5922222222222224
+            "time_on_this_state": 19.025277777777777
         }
     ]
 }},
@@ -652,7 +652,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 4.481111111111111
+            "time_on_this_state": 19.914166666666667
         }
     ]
 }},
@@ -673,7 +673,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 3.3244444444444445
+            "time_on_this_state": 18.75777777777778
         }
     ]
 }},
@@ -694,7 +694,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 4.241388888888889
+            "time_on_this_state": 19.674444444444443
         }
     ]
 }},
@@ -711,7 +711,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 2.0755555555555554
+            "time_on_this_state": 17.50888888888889
         }
     ]
 }},
@@ -732,7 +732,7 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 3.9469444444444446
+            "time_on_this_state": 19.38
         }
     ]
 }},
@@ -753,7 +753,8 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 4.039444444444444
+            "time_on_this_state": 19.47277777777778
         }
     ]
-}}]
+}}
+]
