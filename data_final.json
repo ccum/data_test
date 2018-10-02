@@ -1,9 +1,48 @@
 [{ "item" : {
+    "key_issue": "PA-141", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.005555555555555556
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 1.6669444444444443
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-140", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.10027777777777777
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 7.709722222222222
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-139", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.2136111111111111
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 7.8838888888888885
+        }
+    ]
+}},
+{ "item" : {
     "key_issue": "PA-138", 
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.009722222222222222
+            "time_on_this_state": 0.12555555555555556
         }, 
         {
             "state_name": "Analysing", 
@@ -15,7 +54,33 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 5.205277777777778
+            "time_on_this_state": 5.625555555555556
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-137", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.008888888888888889
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 7.1322222222222225
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-136", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.030833333333333334
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 7.133333333333334
         }
     ]
 }},
@@ -24,7 +89,7 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 5.0
+            "time_on_this_state": 0.07055555555555555
         }, 
         {
             "state_name": "Analysing", 
@@ -32,7 +97,7 @@
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 4.096388888888889
+            "time_on_this_state": 4.516666666666667
         }
     ]
 }},
@@ -41,7 +106,7 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 1.0
+            "time_on_this_state": 0.12527777777777777
         }, 
         {
             "state_name": "Analysing", 
@@ -49,7 +114,7 @@
         }, 
         {
             "state_name": "In Progress", 
-            "time_on_this_state": 4.098055555555556
+            "time_on_this_state": 4.5183333333333335
         }
     ]
 }},
@@ -58,7 +123,7 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.6166666666666667
+            "time_on_this_state": 0.12333333333333334
         }, 
         {
             "state_name": "Analysing", 
@@ -86,7 +151,243 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 6.436388888888889
+            "time_on_this_state": 6.8566666666666665
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-131", 
+    "list_status": []
+}},
+{ "item" : {
+    "key_issue": "PA-130", 
+    "list_status": []
+}},
+{ "item" : {
+    "key_issue": "PA-129", 
+    "list_status": []
+}},
+{ "item" : {
+    "key_issue": "PA-128", 
+    "list_status": []
+}},
+{ "item" : {
+    "key_issue": "PA-127", 
+    "list_status": []
+}},
+{ "item" : {
+    "key_issue": "PA-126", 
+    "list_status": []
+}},
+{ "item" : {
+    "key_issue": "PA-125", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.008055555555555555
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 1.8575
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-122", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.05694444444444444
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 4.004722222222222
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-121", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.007222222222222222
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 18.45611111111111
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 23.204444444444444
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 7.4847222222222225
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-120", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.005277777777777778
+        }, 
+        {
+            "state_name": "Test", 
+            "time_on_this_state": 0.11611111111111111
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 2.075
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-119", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.0325
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 21.40972222222222
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 0.008611111111111111
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 2.4358333333333335
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 7.706388888888889
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-118", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.16194444444444445
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 23.973055555555554
+        }, 
+        {
+            "state_name": "Test", 
+            "time_on_this_state": 5.470277777777778
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 2.0741666666666667
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-117", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.0044444444444444444
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 23.069166666666668
+        }, 
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.3983333333333333
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-116", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.034722222222222224
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 23.06833333333333
+        }, 
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.40055555555555555
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-115", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.006944444444444444
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 20.66583333333333
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 3.2383333333333333
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-114", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.145
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 20.653055555555557
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 3.249722222222222
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-113", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.0225
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 21.27138888888889
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 3.1580555555555554
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-112", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.03888888888888889
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 21.275555555555556
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 3.1572222222222224
         }
     ]
 }},
@@ -95,7 +396,7 @@
     "list_status": [
         {
             "state_name": "New", 
-            "time_on_this_state": 0.0016666666666666668
+            "time_on_this_state": 0.007222222222222222
         }, 
         {
             "state_name": "In Progress", 
@@ -103,8 +404,356 @@
         }, 
         {
             "state_name": "To Rework", 
-            "time_on_this_state": 2.7358333333333333
+            "time_on_this_state": 3.156111111111111
         }
     ]
-}}
-]
+}},
+{ "item" : {
+    "key_issue": "PA-110", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.003611111111111111
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 21.501944444444444
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 3.155
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-109", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.105
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 21.56972222222222
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 3.153611111111111
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-108", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.02722222222222222
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.001388888888888889
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 17.45916666666667
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 0.11166666666666666
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 5.344166666666666
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 2.0719444444444446
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-107", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.006111111111111111
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.0011111111111111111
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 23.075
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 2.0616666666666665
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-106", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.03166666666666667
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.0008333333333333334
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 0.0008333333333333334
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 1.4319444444444445
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-105", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.1625
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 1.428611111111111
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-104", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.08
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.0005555555555555556
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 0.0011111111111111111
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 1.6072222222222223
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-103", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.18611111111111112
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.0011111111111111111
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 0.001388888888888889
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 2.0705555555555555
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-102", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.12333333333333334
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.0011111111111111111
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 0.01
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 2.754166666666667
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-101", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.026111111111111113
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.002777777777777778
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 0.009722222222222222
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 3.296666666666667
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-100", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.059722222222222225
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.0025
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.003611111111111111
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 0.001388888888888889
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 3.5922222222222224
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-99", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.6883333333333334
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.001388888888888889
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 0.0025
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 4.481111111111111
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-96", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.017222222222222222
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.0008333333333333334
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 0.0008333333333333334
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 3.3244444444444445
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-94", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.012222222222222223
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 22.50722222222222
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 1.1258333333333332
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 4.241388888888889
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-93", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.0125
+        }, 
+        {
+            "state_name": "Test", 
+            "time_on_this_state": 1.8836111111111111
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 2.0755555555555554
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-92", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.030555555555555555
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.0005555555555555556
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 0.0005555555555555556
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 3.9469444444444446
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-91", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.015277777777777777
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.0005555555555555556
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 0.0005555555555555556
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 4.039444444444444
+        }
+    ]
+}}]
