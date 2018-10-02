@@ -1,0 +1,110 @@
+[{ "item" : {
+    "key_issue": "PA-138", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.009722222222222222
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.013055555555555556
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 0.1063888888888889
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 5.205277777777778
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-135", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 5.0
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 2.6175
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 4.096388888888889
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-134", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 1.0
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 2.6166666666666667
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 4.098055555555556
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-133", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.6166666666666667
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 17.909444444444443
+        }, 
+        {
+            "state_name": "Deleted", 
+            "time_on_this_state": 0.01138888888888889
+        }, 
+        {
+            "state_name": "Deleted", 
+            "time_on_this_state": 0.0011111111111111111
+        }, 
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.014166666666666666
+        }, 
+        {
+            "state_name": "Analysing", 
+            "time_on_this_state": 0.12416666666666666
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 0.22416666666666665
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 6.436388888888889
+        }
+    ]
+}},
+{ "item" : {
+    "key_issue": "PA-111", 
+    "list_status": [
+        {
+            "state_name": "New", 
+            "time_on_this_state": 0.0016666666666666668
+        }, 
+        {
+            "state_name": "In Progress", 
+            "time_on_this_state": 21.44361111111111
+        }, 
+        {
+            "state_name": "To Rework", 
+            "time_on_this_state": 2.7358333333333333
+        }
+    ]
+}}
+]
